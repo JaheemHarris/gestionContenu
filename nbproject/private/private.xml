@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/services/ContenuService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/controllers/ContenuDetailsController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/web/index.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/controllers/RechercheController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/web/ficheContenu.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/controllers/LoginController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/web/listeContenu.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/web/404.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/web/modifierContenu.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/controllers/TypeContenuController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/web/ajoutContenu.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/models/Recherche.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/controllers/ContenuController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/models/ContenuDetails.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/src/java/models/Contenu.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/gestionContenu/web/base.sql</file>
+        </group>
+    </open-files>
+</project-private>
